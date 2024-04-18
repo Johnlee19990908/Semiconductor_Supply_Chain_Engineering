@@ -30,7 +30,9 @@
 ## Extension on Planning Strategy and Worker Allocation Analysis:
 Conducted analysis comparing two scenarios based on the LP model:
 1. Original scenario: Total workers performing three different processes simultaneously, resulting in an objective value of 553211.
+
 ![Image 6](https://github.com/Johnlee19990908/Semiconductor_Supply_Chain_Engineering/raw/main/readme_image/6.png)
+
 2. Modified scenario: Workers split into 3 processes with specialized labor force constraints, resulting in an objective value increase to 626203.2.
 
 ![Image 7](https://github.com/Johnlee19990908/Semiconductor_Supply_Chain_Engineering/raw/main/readme_image/7.png)
