@@ -15,7 +15,7 @@
    ![Image 1](https://github.com/Johnlee19990908/Semiconductor_Supply_Chain_Engineering/raw/main/readme_image/1.png)
 
    ![Image 2](https://github.com/Johnlee19990908/Semiconductor_Supply_Chain_Engineering/raw/main/readme_image/2.png)
-   - Utilized Lingo model “BOM B_or_M.lg4” for make-or-buy decision, validated in Excel calculation “BOM B_or_M.xlsx”.
+   - Utilized Linear Programming model “BOM B_or_M.lg4” for make-or-buy decision, validated in Excel calculation “BOM B_or_M.xlsx”.
    
    ![Image 3](https://github.com/Johnlee19990908/Semiconductor_Supply_Chain_Engineering/raw/main/readme_image/3.png)
    ![Image 4](https://github.com/Johnlee19990908/Semiconductor_Supply_Chain_Engineering/raw/main/readme_image/4.png)
