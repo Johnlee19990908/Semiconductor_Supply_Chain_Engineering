@@ -24,7 +24,7 @@
 
 3. Aggregation Planning Strategy:
    - Refer to “Aggregate planning question.png” for an overview.
-   - Utilized mixed-integer linear regression models in “Aggregate planning.lg4”.
+   - Utilized mixed-integer linear programming models in “Aggregate planning.lg4”.
    - Extension on planning strategy with specialized labor force constraints detailed in LP model “Aggregate planning extend.lg4”.
 
 ## Extension on Planning Strategy and Worker Allocation Analysis:
